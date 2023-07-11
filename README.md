@@ -13,7 +13,11 @@ Once the required modules are downloaded,
 git clone https://github.com/brandon202415/potterdownload.git
 ```
 # Usage
-Run the command
+Navigate into the cloned directory
+```
+cd potterdownload
+```
+Once in the correct directory, run the command
 ```
 python3 potterdownload
 ```
