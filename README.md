@@ -19,6 +19,6 @@ cd potterdownload
 ```
 Once in the correct directory, run the command
 ```
-python3 potterdownload
+python3 potterdownload.py
 ```
 The program will create 7 folders and begin downloading the Harry Potter audiobooks.
