@@ -22,3 +22,5 @@ Once in the correct directory, run the command
 python3 potterdownload.py
 ```
 The program will create 7 folders and begin downloading the Harry Potter audiobooks.
+
+Note: This is very large (1.3 GB) download, so expect it to take several minutes depending on download speed.
