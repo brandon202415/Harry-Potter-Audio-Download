@@ -7,8 +7,13 @@ pip3 install pathlib
 pip3 install requests
 pip3 install bs4
 ```
+Once the required modules are downloaded,
+```
+git clone https://github.com/brandon202415/potterdownload.git
+```
 # Usage
-In the terminal, run
+Run the command
 ```
 python3 potterdownload
 ```
+The program will create 7 folders and begin downloading the Harry Potter audiobooks.
