@@ -1,5 +1,5 @@
 # Potterdownload
-potterdownload downloads all chapters of the 7 Harry Potter audiobooks and sorts them into folders.
+potterdownload downloads all chapters of the 7 Harry Potter audiobooks, narrated by Jim Dale, and sorts them into folders.
 # Installation
 Several modules are required to run the Python code (assumed to be Python 3).
 To download:
